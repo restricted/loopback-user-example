@@ -1,0 +1,16 @@
+{
+  "name": "user",
+  "plural": "user",
+  "base": "User",
+  "strict": true,
+  "idInjection": false,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -23,8 +23,8 @@
     "nsp": "^2.1.0"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/restricted/loopback-user-example"
   },
   "license": "UNLICENSED",
   "description": "loopback-user-example"
